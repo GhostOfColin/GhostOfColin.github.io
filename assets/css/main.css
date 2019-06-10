@@ -1485,8 +1485,6 @@ input, select, textarea {
 	.image {
 		display: inline-block;
 		border: 0;
-		width: 100%;
-		object-fit: cover;
 	}
 
 		.image img {
