@@ -33,6 +33,11 @@ body {
 	line-height: 1;
 }
 
+.myface {
+	width: 100%;
+	object-fit: cover;
+}
+
 ol, ul {
 	list-style: none;
 }
